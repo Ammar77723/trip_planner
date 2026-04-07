@@ -1,0 +1,29 @@
+{
+  "regions": [
+    {
+      "id": "region1",
+      "name": "Region 1 - North America East",
+      "lamin": 35.0,
+      "lamax": 50.0,
+      "lomin": -85.0,
+      "lomax": -65.0
+    },
+    {
+      "id": "region2",
+      "name": "Region 2 - Europe Central",
+      "lamin": 45.0,
+      "lamax": 55.0,
+      "lomin": 5.0,
+      "lomax": 20.0
+    },
+    {
+      "id": "data",
+      "name": "All Data",
+      "lamin": null,
+      "lamax": null,
+      "lomin": null,
+      "lomax": null
+    }
+  ]
+}
+
